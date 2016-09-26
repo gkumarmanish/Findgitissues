@@ -1,12 +1,13 @@
 Steps to Run the Application
 
-    Require installation and setup for the application
+   1. Require installation and setup for the application
 
     Apache Server
     
     Curl (for api call)
 
+  2. Take clone of project
 
-    Run the Project in the Browser Type
+  3. Run the Project in the Browser Type
 
     Url: http://localhost/Findgitissues

@@ -6,7 +6,7 @@ Steps to Run the Application
     
     Curl (for api call)
 
-   2. Take clone of project 
+   2. Take clone of project or download the zip file and unzip and
       
       Put the project in windows C:\xampp\htdocs
                       in Ubuntu   /var/www/html
